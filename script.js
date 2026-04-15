@@ -161,7 +161,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const names = [
-    "OmoPay",
+    "*ꨄ 𝓞𝓶𝓸𝓟𝓪𝔂 ꨄ *",
   ];
   let name = names[Math.floor(Math.random() * names.length)];
   let nameText = '';
